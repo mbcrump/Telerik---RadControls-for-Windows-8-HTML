@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bin\Debug\resources.pri
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bin\Debug\AppxManifest.xml
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bin\Debug\WorldCountriesRadComboBox.build.appxrecipe
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bld\Debug\priconfig.xml
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bld\Debug\layout.resfiles
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bld\Debug\resources.resfiles
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bld\Debug\pri.resfiles
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bld\Debug\LanguageQualifiers.txt
+c:\users\michael\documents\visual studio 2012\Projects\WorldCountriesRadComboBox\WorldCountriesRadComboBox\bld\Debug\ProjectArchitectures.txt

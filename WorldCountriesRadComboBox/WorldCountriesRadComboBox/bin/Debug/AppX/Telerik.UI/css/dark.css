@@ -1,0 +1,77 @@
+﻿/*
+* RadControls for Metro HTML BETA (http://telerik.com)
+* Copyright 2012 Telerik AD. All rights reserved.
+*/
+.k-autocomplete .k-input{color:rgba(0,0,0,0.6);background-color:rgba(255,255,255,0.8);border-color:rgba(255,255,255,0.8)}
+.k-autocomplete.k-state-hover .k-input{color:rgba(0,0,0,0.6);background-color:rgba(255,255,255,0.87);border-color:rgba(255,255,255,0.87)}
+.k-autocomplete.k-state-focused .k-input{color:#000;background-color:#fff;border-color:#fff}
+.k-input.t-typed-text,.k-autocomplete.k-state-hover .k-input.t-typed-text{color:#000}
+.k-autocomplete.k-state-disabled .k-input{color:rgba(255,255,255,0.22);border-color:rgba(255,255,255,0.4)}
+.k-list-container,.k-list-container.k-state-border-up{border-color:#fff;border-bottom:0}
+.k-animation-container{padding-top:2px}
+.k-autocomplete.k-state-border-down{background-color:#fff}
+.k-list{background-color:#fff}
+.k-list .k-item{color:#000;font-weight:400;border-color:#fff}
+.k-list .k-item.k-state-hover,.k-list .k-item.k-state-focused{color:#fff;background-color:#006ac1;border-color:#006ac1}
+.k-autocomplete .k-input.t-clear-hover::-ms-clear{color:#000;background-color:rgba(0,0,0,.13)}
+.k-autocomplete .k-input.t-clear-click::-ms-clear{color:#fff;background-color:#000}
+.t-frame{border-color:#fff}
+.k-combobox .k-dropdown-wrap{background-color:rgba(255,255,255,0.8);border-color:rgba(255,255,255,0.8)}
+.k-combobox .k-dropdown-wrap.k-state-hover{background-color:rgba(255,255,255,0.87);border-color:rgba(255,255,255,0.87)}
+.k-combobox .k-dropdown-wrap.k-state-focused,.k-combobox .k-dropdown-wrap.k-state-active{background-color:#fff;border-color:#fff}
+.k-combobox .k-dropdown-wrap.k-state-disabled{background-color:transparent;border-color:rgba(255,255,255,0.4)}
+.k-combobox .k-dropdown-wrap.k-state-disabled .k-input{color:rgba(255,255,255,0.22)}
+.k-combobox .k-dropdown-wrap .k-input,.k-combobox .k-dropdown-wrap.k-state-hover .k-input{background-color:transparent}
+.k-animation-container{padding-top:2px}
+.k-list{background-color:#fff}
+.k-list .k-item{color:#000;border-color:#fff}
+.k-list .k-item.k-state-hover,.k-list .k-item.k-state-focused{color:#fff;background-color:#006AC1;border-color:#006AC1}
+.k-combobox .k-input.t-clear-hover::-ms-clear{color:#000;background-color:rgba(0,0,0,.13)}
+.k-combobox .k-input.t-clear-click::-ms-clear{color:#fff;background-color:#000}
+.t-frame{border-color:#fff}
+.t-date-picker,.t-time-picker{color:rgba(255,255,255,0.6)}
+.t-date-picker .t-picker,.t-time-picker .t-picker{color:#000;background-color:#d2d2d2;border-color:#d2d2d2}
+.t-date-picker .t-picker:hover,.t-time-picker .t-picker:hover{background-color:rgba(255,255,255,0.87);border-color:rgba(255,255,255,0.87)}
+.t-date-picker .t-picker.t-press,.t-time-picker .t-picker.t-press{border-color:#fff}
+.t-date-picker .t-press .t-arrow,.t-time-picker .t-press .t-arrow{background-color:#fff}
+.t-date-picker.t-disabled .t-picker,.t-time-picker.t-disabled .t-picker{color:rgba(255,255,255,0.4);background-color:rgba(255,255,255,0);border-color:rgba(255,255,255,0.4)}
+.t-date-picker.t-empty .t-input,.t-time-picker.t-empty .t-input{color:#666}
+.t-date-picker.t-disabled.t-empty .t-input,.t-time-picker.t-disabled.t-empty .t-input{color:rgba(255,255,255,0.12)}
+.t-date-selector,.t-time-selector{background-color:#fff;border-color:rgba(0,0,0,0.44)}
+.t-date-selector .t-header,.t-time-selector .t-header{color:#000}
+.t-date-selector .t-ok,.t-time-selector .t-ok{color:#fff;background-color:#006AC1}
+.t-date-selector .t-cancel,.t-time-selector .t-cancel{color:#212121;background-color:rgba(182,182,182,0.7)}
+.t-date-selector .t-template .t-label,.t-time-selector .t-template .t-label{color:rgba(33,33,33,0.6)}
+.t-date-selector .t-selected .t-template .t-label,.t-time-selector .t-selected .t-template .t-label{color:rgba(255,255,255,0.6)}
+.k-dropdown-wrap{background-color:rgba(255,255,255,0.8);border-color:rgba(255,255,255,0.8)}
+.k-dropdown-wrap.k-state-hover{background-color:rgba(255,255,255,0.87);border-color:rgba(255,255,255,0.87)}
+.k-dropdown-wrap.k-state-focused,.k-dropdown-wrap.k-state-active{background-color:#fff;border-color:#fff}
+.k-dropdown-wrap.k-state-disabled{background-color:transparent;border-color:rgba(255,255,255,0.4)}
+.k-dropdown-wrap.k-state-disabled .k-input{color:rgba(255,255,255,0.22)}
+.k-dropdown .k-input{color:#000}
+.k-animation-container{padding-top:2px}
+.k-list{background-color:#fff}
+.k-list .k-item{color:#000;border-color:#fff}
+.k-list .k-item.k-state-hover,.k-list .k-item.k-state-focused{color:#fff;background-color:#006AC1;border-color:#006AC1}
+.t-looping-list-item{background-color:rgba(182,182,182,0.7);color:#212121}
+.t-looping-list-item.t-selected{background-color:#006ac1;color:white}
+.k-numerictextbox .k-state-default .k-input{border-color:transparent}
+.k-numerictextbox .k-state-hover .k-input{background-color:rgba(255,255,255,0.87);border-color:transparent}
+.k-numerictextbox .k-state-focused .k-input{background-color:#fff;border-color:#fff}
+.k-numerictextbox .k-state-disabled .k-input{border-color:rgba(255,255,255,0.4);color:#b7b7b7}
+.k-numerictextbox .k-input:-ms-input-placeholder{color:#666}
+.k-numerictextbox .k-numeric-wrap.k-state-focused .k-link.k-state-selected{background-color:#fff;border-color:#fff;color:#000}
+.k-numerictextbox .k-state-disabled .k-link{border-color:rgba(255,255,255,0.4);background-color:transparent;color:#b7b7b7}
+.k-slider-track{background-color:rgba(255,255,255,0.35)}
+.k-state-disabled .k-slider-track,.k-slider:hover.k-state-disabled .k-slider-track{background-color:rgba(255,255,255,0.12)}
+.k-slider:hover .k-slider-track{background-color:rgba(255,255,255,0.38)}
+.k-slider-selection{background-color:#006AC1}
+.k-state-disabled .k-slider-selection,.k-slider:hover.k-state-disabled .k-slider-selection{background-color:rgba(255,255,255,0.24)}
+.k-slider:hover .k-slider-selection{background-color:#006AC1}
+.k-draghandle,.k-draghandle.k-state-selected,.k-draghandle.k-state-selected:hover{background-color:white;border-color:white}
+.k-state-disabled .k-draghandle,.k-slider:hover.k-state-disabled .k-draghandle{background-color:rgba(125,125,125,1);border-color:rgba(125,125,125,1)}
+.k-slider .k-label{color:white}
+.k-slider .k-button{border-color:white}
+.k-slider-horizontal .k-tick{background-image:url(data:image/gif;base64,R0lGODlhAQDIAKECAAAAAFlZWf///////yH5BAEKAAIALAAAAAABAMgAAAIXlI+ZwO2golSh2intzbp3HHliBZbmGRUAOw==)}
+.k-slider-vertical .k-tick{background-image:url(data:image/gif;base64,R0lGODlh3AABAKECAAAAAFlZWf///////yH5BAEKAAIALAAAAADcAAEAAAIZlI+pe+APAZs0hYurwln7zYXhd4jmRaZLAQA7)}
+.k-tooltip{background-color:white;border-color:gray;color:black}
